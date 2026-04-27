@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard3" transform="matrix(1,0,0,1,-123.703163,0)">
+        <rect x="123.703" y="0" width="180" height="180" style="fill:none;"/>
+        <g transform="matrix(5.650383,0,0,5.650383,-1870.882172,-0.812268)">
+            <g transform="matrix(1,0,0,1,130.288315,12.91792)">
+                <circle cx="245.847" cy="10.74" r="7.676" style="fill:rgb(220,163,59);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,130.253313,-2.398689)">
+                <circle cx="245.847" cy="10.74" r="7.676" style="fill:rgb(21,148,188);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,122.577508,5.242114)">
+                <circle cx="245.847" cy="10.74" r="7.676" style="fill:rgb(157,27,37);"/>
+            </g>
+            <g transform="matrix(1.865846,0,0,1.047257,-73.959668,-1.480746)">
+                <rect x="231.483" y="2.05" width="1.094" height="29.284" style="fill:rgb(220,163,59);"/>
+            </g>
+            <g transform="matrix(0.923077,0,0,1.047257,143.266377,-1.480746)">
+                <rect x="231.483" y="2.05" width="1.094" height="29.284" style="fill:rgb(157,27,37);"/>
+            </g>
+            <g transform="matrix(1.848,0,0,1.047257,-71.84944,-1.480746)">
+                <rect x="231.483" y="2.05" width="1.094" height="29.284" style="fill:rgb(157,27,37);"/>
+            </g>
+            <g transform="matrix(5.561846,0,0,1.047257,-933.564189,-1.480746)">
+                <rect x="231.483" y="2.05" width="1.094" height="29.284" style="fill:rgb(11,10,15);"/>
+            </g>
+        </g>
+    </g>
+</svg>
